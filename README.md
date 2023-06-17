@@ -5,14 +5,13 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelsantos10&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelsantos10&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelsantos10&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
 ## Codar é um modo de pensar
-<div  align="center"> 
   <div style="display: flex; justify-content: space-between;"> <br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left"height="150" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
