@@ -25,9 +25,9 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.facebook.com/raphaelsoaresDesenvolvedorWeb/">
-      <img width="35" src="youtube.svg">
+      <img width="35" src="facebook.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://instagram.com/phsoares14?igshid=MzNlNGNkZWQ4Mg==">
       <img width="25" src="instagram.png">
     </a>
 </div>
