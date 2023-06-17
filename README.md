@@ -19,13 +19,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: raphaelsantos10@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="32" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/raphael-dos-santos-soares-b1a273251/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.facebook.com/raphaelsoaresDesenvolvedorWeb/">
-      <img width="35" src="facebook.svg">
+      <img width="26" src="Facebook_icon.svg">
     </a>
     <a href = "https://instagram.com/phsoares14?igshid=MzNlNGNkZWQ4Mg==">
       <img width="25" src="instagram.png">
