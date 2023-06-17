@@ -1,3 +1,5 @@
+
+
 ## Bem vindos! #Raphael(PH) Aquii.
 
 <div>
@@ -7,6 +9,7 @@
 </div>
 <br>
 
+## Codar é um modo de pensar
 <div  align="center"> 
   <div style="display: flex; justify-content: space-between;"> <br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
